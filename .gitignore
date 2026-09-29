@@ -1,0 +1,16 @@
+# Evidence generated during the lab
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pcap
+*.pcapng
+
+# Local/OS files
+.DS_Store
+Thumbs.db
+
+# Editor/temporary files
+*.swp
+*.swo
+*~
